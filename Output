@@ -1,0 +1,141 @@
+
+--- Starting Socker Game Loop ---
+Initial State: Ball(x=50.00, y=30.00, vx=0.00, vy=0.00), Players: ["Player(id=1, team='blue', x=20.00, y=30.00, orientation=0.00, stamina=0.90)", "Player(id=2, team='blue', x=40.00, y=45.00, orientation=0.00, stamina=0.80)", "Player(id=1, team='red', x=80.00, y=30.00, orientation=3.14, stamina=0.90)", "Player(id=2, team='red', x=60.00, y=15.00, orientation=3.14, stamina=0.80)"]
+
+=== Game Step 1/5 ===
+Environment Update: Ball is now at (50.00, 30.00)
+
+Agent 1 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (20.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (blue) moving to (5.00, 30.00).
+
+Agent 2 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (40.00, 45.00)
+  Decided action: move (Reason: Closest to ball, moving to possess)
+Agent 2 (blue) moving to (50.00, 30.00).
+
+Agent 1 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (80.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (red) moving to (95.00, 30.00).
+
+Agent 2 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (60.00, 15.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 2 (red) moving to (95.00, 30.00).
+
+=== Game Step 2/5 ===
+Environment Update: Ball is now at (50.00, 30.00)
+
+Agent 1 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (20.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (blue) moving to (5.00, 30.00).
+
+Agent 2 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (40.00, 45.00)
+  Decided action: move (Reason: Closest to ball, moving to possess)
+Agent 2 (blue) moving to (50.00, 30.00).
+
+Agent 1 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (80.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (red) moving to (95.00, 30.00).
+
+Agent 2 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (60.00, 15.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 2 (red) moving to (95.00, 30.00).
+
+=== Game Step 3/5 ===
+Environment Update: Ball is now at (50.00, 30.00)
+
+Agent 1 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (20.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (blue) moving to (5.00, 30.00).
+
+Agent 2 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (40.00, 45.00)
+  Decided action: move (Reason: Closest to ball, moving to possess)
+Agent 2 (blue) moving to (50.00, 30.00).
+
+Agent 1 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (80.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (red) moving to (95.00, 30.00).
+
+Agent 2 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (60.00, 15.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 2 (red) moving to (95.00, 30.00).
+
+=== Game Step 4/5 ===
+Environment Update: Ball is now at (50.00, 30.00)
+
+Agent 1 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (20.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (blue) moving to (5.00, 30.00).
+
+Agent 2 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (40.00, 45.00)
+  Decided action: move (Reason: Closest to ball, moving to possess)
+Agent 2 (blue) moving to (50.00, 30.00).
+
+Agent 1 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (80.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (red) moving to (95.00, 30.00).
+
+Agent 2 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (60.00, 15.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 2 (red) moving to (95.00, 30.00).
+
+=== Game Step 5/5 ===
+Environment Update: Ball is now at (50.00, 30.00)
+
+Agent 1 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (20.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (blue) moving to (5.00, 30.00).
+
+Agent 2 (blue) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (40.00, 45.00)
+  Decided action: move (Reason: Closest to ball, moving to possess)
+Agent 2 (blue) moving to (50.00, 30.00).
+
+Agent 1 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (80.00, 30.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 1 (red) moving to (95.00, 30.00).
+
+Agent 2 (red) Turn:
+  Perceived ball at (50.00, 30.00)
+  Perceived self at (60.00, 15.00)
+  Decided action: move (Reason: Defensive positioning)
+Agent 2 (red) moving to (95.00, 30.00).
+
+--- Socker Game Loop Finished ---
+Final State: Ball(x=50.00, y=30.00, vx=0.00, vy=0.00), Players: ["Player(id=1, team='blue', x=5.00, y=30.00, orientation=0.00, stamina=0.90)", "Player(id=2, team='blue', x=50.00, y=30.00, orientation=0.00, stamina=0.80)", "Player(id=1, team='red', x=95.00, y=30.00, orientation=3.14, stamina=0.90)", "Player(id=2, team='red', x=95.00, y=30.00, orientation=3.14, stamina=0.80)"]
